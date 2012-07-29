@@ -1,0 +1,4 @@
+app|version|file
+updateme|1.002|GEDI.zip
+1.[柱状图]更新；
+2.[剖面图]更新;
