@@ -1,5 +1,5 @@
 app|version|file
-updateme|1.014|GEDI.zip
+updateme|1.015|GEDI.zip
 1.[查找替换]修正了单行文字替换双行文字的位置bug;
 
 
