@@ -1,5 +1,6 @@
 app|version|file
-updateme|1.016|GEDI.zip
+updateme|1.017|GEDI.zip
+版本1.017进行了如下更新：
 1.[设置]修正了设置对话框中线路柱状图备注文字设置的问题；
 
 
