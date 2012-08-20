@@ -1,5 +1,5 @@
 app|version|file
-updateme|1.015|GEDI.zip
-1.[查找替换]修正了单行文字替换双行文字的位置bug;
+updateme|1.016|GEDI.zip
+1.[设置]修正了设置对话框中线路柱状图备注文字设置的问题；
 
 
