@@ -1,5 +1,5 @@
 app|version|file
-updateme|1.020|GEDI.zip
+updateme|1.021|GEDI.zip
 版本1.020进行了如下更新：
 对不起，各位，由于前面的上传文件压缩成RAR文件导致实际更新并没有更新；
 
