@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.085|GEDI.zip
-版本1.085进行了如下更新：
+updateme|1.086|GEDI.zip
+版本1.086进行了如下更新：
 1.校正一个【理正输入模版】的配置设置；
 2.平切图正在完全重写，近期更新；
 
