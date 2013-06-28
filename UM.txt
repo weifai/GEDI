@@ -1,9 +1,9 @@
 app|version|file
-updateme|1.171|GEDI.zip
-版本1.171进行了如下更新：
+updateme|1.172|GEDI.zip
+版本1.172进行了如下更新：
+【理正输入模版】对三个命令按钮的算法进行了调整，避免行距改变时，按钮跑到上面去了；
 【地基初始反力模量】根据google books[Offshore Structures: Design, Construction and Maintenance]第258页数据，校正利用内摩擦角度进行插值；
-【柱状图】增加地下水位“未测”“未见”配置选项；
-【所有图件】增加一个|记录人|的选项，以解决柱状图等图件中记录人和制图人的不同问题；
+
 
 
 
