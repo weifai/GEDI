@@ -1,11 +1,7 @@
 app|version|file
-updateme|1.172|GEDI.zip
-版本1.172进行了如下更新：
-【理正输入模版】对三个命令按钮的算法进行了调整，避免行距改变时，按钮跑到上面去了；
-【地基初始反力模量】根据google books[Offshore Structures: Design, Construction and Maintenance]第258页数据，校正利用内摩擦角度进行插值；
-
-
-
+updateme|1.173|GEDI.zip
+版本1.173进行了如下更新：
+【标贯统计】增加了如果没有采用理正软件修正，采用《广东地基规范》附录L中规定进行修正标贯击数；
 
 
 
