@@ -1,4 +1,5 @@
 app|version|file
-updateme|1.182|GEDI.zip
-版本1.182进行了如下更新：
+updateme|1.183|GEDI.zip
+版本1.183进行了如下更新：
+【柱状图】增加一个C1S2的地质时代设置；
 【线路柱状图】修正多处；
