@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.200|GEDI.zip
-版本1.200进行了如下更新：
+updateme|1.201|GEDI.zip
+版本1.201进行了如下更新：
 【柱状图】增加了多种如：含粉质粘土卵石类型的图例配置；
 
 
