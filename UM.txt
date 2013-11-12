@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.205|GEDI.zip
-版本1.205进行了如下更新：
+updateme|1.206|GEDI.zip
+版本1.206进行了如下更新：
 【所有图件】修改了广电院的logo；
 【柱状图】修改了柱状图的描述文字颜色；
 
