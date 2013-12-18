@@ -1,8 +1,7 @@
 app|version|file
-updateme|1.222|GEDI.zip
-版本1.222进行了如下更新：
-【理正输入模版】兼容win7，64位office[G7850请联系QQ7769449,Matlab@163.com,15912549143]；
+updateme|1.223|GEDI.zip
+版本1.223进行了如下更新：
+【岩芯照片报告】更新logo；
 
 
-
-		2013-12-6
+		2013-12-18
