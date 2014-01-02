@@ -1,6 +1,8 @@
 app|version|file
-updateme|1.223|GEDI.zip
-版本1.223进行了如下更新：
+updateme|1.224|GEDI.zip
+版本1.224进行了如下更新：
+【平面图】增加平面图中剖面线外伸的长度设置借口，默认值由10mm改为5mm；
+【平切图】修正一个bug；
 【岩芯照片报告】更新logo；
 
 
