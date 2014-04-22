@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.252|SINOMA.zip
-版本1.252进行了如下更新：
+updateme|1.253|SINOMA.zip
+版本1.253进行了如下更新：
 【电子签名】增加了一个电子签名；
 【动力触弹】修正一个bug；
 
