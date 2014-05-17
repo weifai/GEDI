@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.257|SINOMA.zip
-版本1.257进行了如下更新：
+updateme|1.258|SINOMA.zip
+版本1.258进行了如下更新：
 【英文版本】修正多项显示问题；
 【英文版本】增加柱状图、剖面图等图件的英文版本；
 
