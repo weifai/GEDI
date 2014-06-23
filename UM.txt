@@ -1,9 +1,9 @@
 app|version|file
-updateme|1.259|SINOMA.zip
-版本1.259进行了如下更新：
-【Logo】更新所有图件的logo；
+updateme|1.260|SINOMA.zip
+版本1.260进行了如下更新：
+【柱状图】增加水位-2，-1为未见、未测的设置；
 
-2014.6.11
+2014.6.23
 
 
 
