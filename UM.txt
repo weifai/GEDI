@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.261|GEDI.zip
-版本1.261进行了如下更新：
+updateme|1.262|GEDI.zip
+版本1.262进行了如下更新：
 【核电柱状图】修改标贯深度显示格式为1.20-1.50；
 
 2014.7.21
