@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.265|GEDI.zip
-版本1.265进行了如下更新：
+updateme|1.266|GEDI.zip
+版本1.266进行了如下更新：
 【剖面图】增加一种自动从平面图中等值线获取地面线的功能；
 
 2014.10.9
