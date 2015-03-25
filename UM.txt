@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.281|GEDI.zip
-版本1.281进行了如下更新：
+updateme|1.282|GEDI.zip
+版本1.282进行了如下更新：
 【浅井】增加一个浅井展开图的功能；
 
 2015.3.26
