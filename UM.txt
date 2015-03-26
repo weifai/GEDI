@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.283|GEDI.zip
-版本1.283进行了如下更新：
+updateme|1.284|GEDI.zip
+版本1.284进行了如下更新：
 【探井】增加数据模板命令接口；
 【探井】增加一个浅井展开图的功能；
 
