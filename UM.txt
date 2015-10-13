@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.280|GEDI.zip
-版本1.280进行了如下更新：
+updateme|1.281|GEDI.zip
+版本1.281进行了如下更新：
 【剖面图】增加了动力触探曲线显示功能；
 
 
