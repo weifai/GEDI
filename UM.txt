@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.284|GEDI.zip
-版本1.284进行了如下更新：
+updateme|1.285|GEDI.zip
+版本1.285进行了如下更新：
 【柱状图】增加支持轻型触探N10的功能；
 
 2016.5.10
