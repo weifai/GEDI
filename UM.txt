@@ -1,9 +1,9 @@
 app|version|file
-updateme|1.289|GEDI.zip
-版本1.289进行了如下更新：
+updateme|1.290|GEDI.zip
+版本1.290进行了如下更新：
 【核电柱状图】修正核电柱状图的一个bug；
 
-2016.9.5
+2016.12.21
 
 
 
