@@ -1,8 +1,8 @@
 app|version|file
-updateme|1.298|GEDI.zip
-版本1.298进行了如下更新：
-【土层统计表】修正bug。
-2017.8.20
+updateme|1.299|GEDI.zip
+版本1.299进行了如下更新：
+【RQD统计表】修正bug。
+2017.10.18
 
 
 
