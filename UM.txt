@@ -1,7 +1,7 @@
 app|version|file
-updateme|1.299|GEDI.zip
-版本1.299进行了如下更新：
-【RQD统计表】修正bug。
+updateme|1.300|GEDI.zip
+版本1.300进行了如下更新：
+【压水试验】修正一个压水试验孔损影响计算问题。
 2017.10.18
 
 
